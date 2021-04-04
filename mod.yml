@@ -1,0 +1,9 @@
+title: Dusk
+originalAuthor: Shananas
+description:
+assets:
+ - name: obj/M_EX990.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/M_EX990.mdlx
+  
