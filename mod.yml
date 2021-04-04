@@ -6,7 +6,8 @@ assets:
    method: copy
    source:
     - name: obj/M_EX990.mdlx
-  - name: obj/H_EX990.mdlx
+    
+ - name: obj/H_EX990.mdlx
    method: copy
    source:
     - name: obj/M_EX990.mdlx
