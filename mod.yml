@@ -1,6 +1,6 @@
 title: Dusk
 originalAuthor: Shananas
-description:
+game: kh2
 assets:
  - name: obj/M_EX990.mdlx
    method: copy
